@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @weslleyrsr
+- 👋 Hi, I’m Weslley Rodrigo
 - 👀 I’m interested in games, techno music, traveling and of course technology.
-- 🌱 I’m currently learning UX Design and Design Thinking
-- 💞️ I’m looking to collaborate as an experienced developer in web projects on the JS stack, but also looking for learning more about python and data science
+- 🌱 I’m currently improving my backend skills
+- 💞️ I’m looking to collaborate as an experienced developer in web projects on the JS stack, but also looking for learning new technologies
 - 📫 How to reach me:
   * :email: -> weslley.rodriigo@gmail.com
   * :camera:  -> @weslleyrsr
